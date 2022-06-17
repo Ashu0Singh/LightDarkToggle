@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LightDarkToggle/static/css/main.07925a87.css",
+    "main.js": "/LightDarkToggle/static/js/main.3292910e.js",
+    "static/media/react-icon-small.png": "/LightDarkToggle/static/media/react-icon-small.05e48353d6aac031c4e0.png",
+    "index.html": "/LightDarkToggle/index.html",
+    "main.07925a87.css.map": "/LightDarkToggle/static/css/main.07925a87.css.map",
+    "main.3292910e.js.map": "/LightDarkToggle/static/js/main.3292910e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07925a87.css",
+    "static/js/main.3292910e.js"
+  ]
+}
